@@ -10,7 +10,7 @@
 <div align="center" style="display: inline_block"><br>
   <p>Sou Brasileiro!</p>
   <img align="center" alt="Brazil-Flag" height="87.5" width="125" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/br.png">
-
+  <p>
   <p>Tecnologias que uso atualmente:</p>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
