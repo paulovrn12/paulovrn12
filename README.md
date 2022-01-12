@@ -25,6 +25,5 @@
   <a href="mailto:paulovrn12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-victor-ribeiro-naves-7531bb1b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- https://github.com/paulovrn12/paulovrn12/blob/main/README.md
+  ![Snake animation](https://github.com/paulovrn12/paulovrn12/blob/output/github-contribution-grid-snake.svg)
 </div>
