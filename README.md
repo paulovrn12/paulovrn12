@@ -19,7 +19,7 @@
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <!--<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
 </div>
- 
+
 <div align="center" style="display: inline_block"><br>
   <a href="https://api.whatsapp.com/send?phone=5562991448519&text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20seu%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCs14oJ86bgfBx8dqbEeN0Fg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
