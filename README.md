@@ -46,12 +46,13 @@ Meu foco atual é construir soluções que **reduzam trabalho manual, conectem s
 
 > **Por que poucos projetos públicos?** Boa parte dos meus projetos profissionais é privada ou roda diretamente em infraestrutura/VPS por envolver credenciais, dados internos e integrações de produção. Por isso, meu GitHub público não representa todo o trabalho que desenvolvo. Posso apresentar arquitetura, decisões técnicas e cases sem expor informações sensíveis.
 
-## 📚 Aprofundando agora
+## 📚 Aprofundando agora e com experiência
 
 - n8n e automações mais robustas
 - APIs REST, autenticação e OAuth
-- Python aplicado a integrações
-- agentes de IA e LLMs
+- Python/Javascript aplicado a integrações e automações
+- agentes de IA, Harness e LLMs
+- Hermes Agent, Codex, ChatGPT Work, Antigravity 2.0
 - BI e análise de dados
 - versionamento, segurança e observabilidade
 
